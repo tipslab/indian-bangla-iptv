@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Star Jalsha Movies HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545",Star Jalsha Movies HD
+http://tvflix03.ddns.net/ENC-6/index.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/e5Ldh7e.png", Zee Bangla HD
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg",Zee Bangla Cinema
+http://ahaohoo.com/.1/tv1/play.php?id=2464&e=.m3u8
