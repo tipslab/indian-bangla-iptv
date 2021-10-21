@@ -9,3 +9,5 @@ http://ahaohoo.com/.1/tv1/play.php?id=2466&e=.m3u8
 http://ahaohoo.com/.1/tv1/play.php?id=2495&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png",Star Jalsha Movies HD JP
 http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Zee_Cinema_HD_2017-0.jpg",Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
