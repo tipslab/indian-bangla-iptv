@@ -11,3 +11,7 @@ http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 http://idvd.multitvsolution.com/idvo/newstimebangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg",Sangeet bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABP_Ananda.svg",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg",R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold_540p/index.m3u8
