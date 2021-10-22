@@ -15,13 +15,13 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg",R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold_540p/index.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla HD",Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg",Colors Bangla HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7903.ts
 #EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7888.ts
 #EXTINF:-1 tvg-name="Zee Bangla Cinema", Zee Bangla Cinema
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7906.ts
-#EXTINF:-1 tvg-name="Star Jalsha HD",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png",Star Jalsha HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/890.ts
 #EXTINF:-1 tvg-name="Sony Aath",Sony Aath
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7915.ts
@@ -57,3 +57,5 @@ http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="MTV Beats HD",MTV Beats HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00%3A1A%3A79%3A3A%3A6B%3A91&ip=202.134.10.142&magic_server=MAIN_MP&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 tvg-name="Discovery Channel",Discovery Channel
+http:\\m3ulink.com:8080\live\info4-restream\Patrik1016987987\17093.ts
