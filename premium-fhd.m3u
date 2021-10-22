@@ -150,10 +150,16 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPggdSKlxZEinL_IeTKisukS9ih01YOPZyw&usqp=CAU",Disney Channel (Hindi)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmsrVpxmCYQY_ShTUOsP7w9q9rbS5PyaOKQ&usqp=CAU" group-title="Kids", WoW Kids (Hindi)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPggdSKlxZEinL_IeTKisukS9ih01YOPZyw&usqp=CAU", Disnep Channel (English)
+http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCFIc9jis44cnJYRHx7hcqAlYkx8RoVXhsw&usqp=CAU", Disney XD (English)
+http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmsrVpxmCYQY_ShTUOsP7w9q9rbS5PyaOKQ&usqp=CAU", WoW Kids (Hindi)
 http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/300px-Hungama_TV.svg.png" group-title="Kids", Hungama (Hindi)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/300px-Hungama_TV.svg.png", Hungama (Hindi)
 http://103.153.39.34:8000/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png", Animal Planet (Hindi)
