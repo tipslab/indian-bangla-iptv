@@ -36,11 +36,29 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg",R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold_540p/index.m3u8
 
-#EXTINF:-1 tvg-name="Sony Max HD",Sony Max HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SONY TV HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png",SONY PIX HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 #EXTINF:-1 tvg-name="SONY MAX2",SONY MAX2
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/883.ts
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",SONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg",SONY SAB HD
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 #EXTINF:-1  tvg-name="Zee Cinema HD",Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
@@ -48,14 +66,26 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010
 #EXTINF:-1 tvg-name="Zee TV HD",Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg",Sony Sab HD
-http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-176
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png",Zee Anmol
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeanmol
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeanmolcinema
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeaction
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecinemalu
+
+#EXTINF:-1 tvg-name="Zee Cafe HD",Zee Cafe HD
+http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Movies HD",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
-#EXTINF:-1 tvg-name="Colors HD",Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 #EXTINF:-1 tvg-name="Star World HD",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
@@ -63,23 +93,29 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010
 #EXTINF:-1 tvg-name="Star Plus HD",Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
-#EXTINF:-1 tvg-name="Sony TV HD",Sony TV HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png",Sony Pix HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-
 #EXTINF:-1 tvg-name="Star Gold",Star Gold
 http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?token=test&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png",Star Movies Select HD
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-name="Colors HD",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
 #EXTINF:-1 tvg-name="Fox Life HD",Fox Life HD
 http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-name="Zee Cafe HD",Zee Cafe HD
-http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo_378606665.png",&TV HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-tvhd_0
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-privéhd/channel_web/1170x658withlogo_375086496.png",&Prive HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-privéhd
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png",&flix HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-channel_2105335046
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo_358457080.png",&xplor HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-209
 
 #EXTINF:-1 tvg-name="UTV Bindass",UTV Bindass
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1059.ts
