@@ -49,7 +49,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f10
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 tvg-name="Star Gold",Star Gold
 http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?token=test&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Star Movies Select HD",Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:StarMoviesSelectHDLogo.jpg",Star Movies Select HD
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Fox Life HD",Fox Life HD
 http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
@@ -59,22 +59,22 @@ http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00%3A1A%3A79%3A3A%3A6B%3A91&ip=202.134.10.142&magic_server=MAIN_MP&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 tvg-name="Discovery Channel",Discovery Channel
 http:\\m3ulink.com:8080\live\info4-restream\Patrik1016987987\17093.ts
-#EXTINF:-1 tvg-name="Nick HD Plus",Nick HD Plus
+#EXTINF:-1 tvg-logo="https://www.nickindia.com/wp-content/themes/nick/assets/images/hd-logo.png",Nick HD+
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7694.ts
 #EXTINF:-1 tvg-name="TEN 1 HD",TEN 1 HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/887.ts
-#EXTINF:-1 tvg-name="TEN 2",TEN 2
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/10183.ts
-#EXTINF:-1 tvg-name="TEN 3",TEN 3
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8765.ts
-#EXTINF:-1 tvg-name="TEN Action",TEN Action
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/309.ts
-#EXTINF:-1 tvg-name="TEN Cricket",TEN Cricket
+#EXTINF:-1 tvg-name="TEN 3",TEN 2 HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/888.ts
-#EXTINF:-1 tvg-name="TEN Golf HD",TEN Golf HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/889.ts
-#EXTINF:-1 tvg-name="TEN Sports HD",TEN Sports HD
+#EXTINF:-1 tvg-name="TEN 3",TEN 3 HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8765.ts
+#EXTINF:-1 tvg-name="TEN Sports",TEN Sports
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/307.ts
+#EXTINF:-1 tvg-name="STAR SPORTS 1 HD",STAR SPORTS 1 HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3250.ts
+#EXTINF:-1 tvg-name="STAR SPORTS 2 HD",STAR SPORTS 2 HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3249.ts
+#EXTINF:-1 tvg-name="STAR SPORTS 3 HD",STAR SPORTS 3 HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3248.ts
 #EXTINF:-1 tvg-name="UTV Bindass",UTV Bindass
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1059.ts
 #EXTINF:-1 tvg-name="UTV MOVIES",UTV MOVIES
