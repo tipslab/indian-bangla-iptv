@@ -96,8 +96,23 @@ http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/300px-Hungama_TV.svg.png" group-title="Kids", Hungama (Hindi)
 http://103.153.39.34:8000/play/a04l/index.m3u8
 
-#EXTINF:-1 tvg-name="Discovery Channel",Discovery Channel
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png", Animal Planet (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-name="Discovery",Discovery (Hindi)
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/17093.ts
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png", Discovery Channel (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png", Discovery Turbo
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png", Discovery Science
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Science&q=800&e=junk.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png", Discovery HD World
+http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nickindia.com/wp-content/themes/nick/assets/images/hd-logo.png",Nick HD+
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7694.ts
