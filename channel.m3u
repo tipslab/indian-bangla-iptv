@@ -15,17 +15,17 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg",R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold_540p/index.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla",Colors Bangla
+#EXTINF:-1 tvg-name="Colors Bangla HD",Colors Bangla HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7903.ts
-#EXTINF:-1 tvg-name="Zee Bangla",Zee Bangla
+#EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7888.ts
-#EXTINF:-1 tvg-name="Zee Bangla Cinema HD", Zee Bangla Cinema HD
+#EXTINF:-1 tvg-name="Zee Bangla Cinema", Zee Bangla Cinema
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7906.ts
-#EXTINF:-1 tvg-name="Star Jalsha",Star Jalsha
+#EXTINF:-1 tvg-name="Star Jalsha HD",Star Jalsha HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/890.ts
 #EXTINF:-1 tvg-name="Sony Aath",Sony Aath
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7915.ts
-#EXTINF:-1 tvg-name="Sony MAX 2",Sony MAX 2
+#EXTINF:-1 tvg-name="SONY MAX2",SONY MAX2
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/883.ts
 #EXTINF:-1 tvg-name="Sony Max HD",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
