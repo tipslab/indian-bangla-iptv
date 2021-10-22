@@ -6,6 +6,9 @@ http://idvd.multitvsolution.com/idvo/colorsbangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg",T Sports HD
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
 https://dl.softowe.com/channel/tsports.m3u8
 
@@ -13,7 +16,7 @@ https://dl.softowe.com/channel/tsports.m3u8
 http://idvd.multitvsolution.com/idvo/zeebangla_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png",Star Jalsha HD
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218194
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png",Star Jalsha Movies HD
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218196
@@ -197,3 +200,9 @@ http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218158
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg",STAR SPORTS SELECT 2
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218157
+
+#EXTINF:-1 tvg-name="HBO HD",HBO HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
+
+#EXTINF:-1 tvg-name="Rishtey Cineplex",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
