@@ -4,10 +4,10 @@
 http://idvd.multitvsolution.com/idvo/colorsbangla_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg",T Sports HD
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/gazi-tvs/chunks.m3u8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218215
+https://dl.softowe.com/channel/tsports.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla Cinema", Zee Bangla Cinema
 http://idvd.multitvsolution.com/idvo/zeebangla_540p/index.m3u8
