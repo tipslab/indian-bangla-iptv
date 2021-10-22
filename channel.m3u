@@ -37,3 +37,11 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f10
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 tvg-name="Star Gold",Star Gold
 http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?token=test&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 tvg-name="Star Movies Select HD",Star Movies Select HD
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Fox Life HD",Fox Life HD
+http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Zee Cafe HD",Zee Cafe HD
+http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Zing HD",Zing HD
+http://89.187.182.181:9090/SM_FHD_ENG_ZING/tracks-v1a1/index.m3u8
