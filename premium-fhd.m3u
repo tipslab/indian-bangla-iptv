@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg",Colors Bangla HD
-http://livezer0.hjkm.info:11991/vesta/colorsbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA0OjQ4OjE1IFBNJmhhc2hfdmFsdWU9SU5ETGExTXQzVERCZmc3ckFGeHpaZz09JnZhbGlkbWludXRlcz0y
+http://alphabetagama.ddns.net/bangla2020/colorsbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA1OjA0OjI0IFBNJmhhc2hfdmFsdWU9ZVYvQmFTMnhaT2tsaml4cWw5bmFGQT09JnZhbGlkbWludXRlcz02ckFGeHpaZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg",T Sports HD
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
@@ -22,7 +22,7 @@ https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218196
 
 #EXTINF:-1 tvg-name="Sony Aath",Sony Aath
-https://ott.bingebd.com/live/ngrp:nxd_sony_aath_all/index.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/cd9b17065db98d5def9e6f9a83385060/auto
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg",Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
