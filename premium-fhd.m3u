@@ -67,22 +67,22 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 #EXTINF:-1  tvg-name="Zee Cinema HD",Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+https://z5ams.akamaized.net/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8?hdnts=st=1635008515~exp=1635011515~acl=/*~hmac=5612afce366dfd73a98681e3106dd51a7073104e74beb877e1cc757df435638a2e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 #EXTINF:-1 tvg-name="Zee TV HD",Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-176
+https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8?hdnts=st=1635008515~exp=1635011515~acl=/*~hmac=5612afce366dfd73a98681e3106dd51a7073104e74beb877e1cc757df435638a
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png",Zee Anmol
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeanmol
+https://z5ams.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8?hdnts=st=1635008515~exp=1635011515~acl=/*~hmac=5612afce366dfd73a98681e3106dd51a7073104e74beb877e1cc757df435638a
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeanmolcinema
+https://z5ams.akamaized.net/zanmolcnm/index.m3u8?hdnts=st=1635008515~exp=1635011515~acl=/*~hmac=5612afce366dfd73a98681e3106dd51a7073104e74beb877e1cc757df435638a
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeaction
+https://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1635008192~exp=1635011192~acl=/*~hmac=234bb4bc8ea0c1bf0313871cd04f5d85ded4922d3a586c1d588177395d02e25d
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecinemalu
