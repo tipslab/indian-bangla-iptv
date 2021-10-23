@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg",Colors Bangla HD
-http://idvd.multitvsolution.com/idvo/colorsbangla_540p/index.m3u8
+http://livezer0.hjkm.info:11991/vesta/colorsbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA0OjQ4OjE1IFBNJmhhc2hfdmFsdWU9SU5ETGExTXQzVERCZmc3ckFGeHpaZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg",T Sports HD
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
@@ -10,10 +10,10 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
-https://dl.softowe.com/channel/tsports.m3u8
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1635006246~exp=1635009246~acl=/*~hmac=ad270ba91ea82480730bb76f9f15bbcef8c846bc1fca372805f2da6a33f5559a
 
 #EXTINF:-1 tvg-name="Zee Bangla Cinema", Zee Bangla Cinema
-http://idvd.multitvsolution.com/idvo/zeebangla_540p/index.m3u8
+https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1635006246~exp=1635009246~acl=/*~hmac=ad270ba91ea82480730bb76f9f15bbcef8c846bc1fca372805f2da6a33f5559a
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png",Star Jalsha HD
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
@@ -22,7 +22,7 @@ https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218196
 
 #EXTINF:-1 tvg-name="Sony Aath",Sony Aath
-http://serivcestv.xyz:8080/3143631718254908/2598854265/218184
+https://ott.bingebd.com/live/ngrp:nxd_sony_aath_all/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg",Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
@@ -147,6 +147,9 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1058.ts
 #EXTINF:-1 tvg-name="MTV Beats HD",MTV Beats HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00%3A1A%3A79%3A3A%3A6B%3A91&ip=202.134.10.142&magic_server=MAIN_MP&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
+#EXTINF:-1 tvg-name="NICK",NICK
+https://live.bongobd.com/hls/vazRRvHpOtMGKoNlMByMPw/1635010991/nickelodeon.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPggdSKlxZEinL_IeTKisukS9ih01YOPZyw&usqp=CAU",Disney Channel (Hindi)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
@@ -165,8 +168,8 @@ http://103.153.39.34:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png", Animal Planet (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
 
-#EXTINF:-1 tvg-name="Discovery",Discovery (Hindi)
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/17093.ts
+#EXTINF:-1 tvg-name="Discovery",Discovery (Bangla)
+http://alphabetagama.ddns.net/bangla2020/discoverybangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA0OjM3OjUwIFBNJmhhc2hfdmFsdWU9ejZlWGVqK3hKWEx1bFdYRExtKzJxUT09JnZhbGlkbWludXRlcz02
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png", Discovery Channel (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
@@ -208,7 +211,7 @@ http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218158
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218157
 
 #EXTINF:-1 tvg-name="HBO HD",HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
+http://livezer0.hjkm.info:11991/ceres/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA0OjU1OjQyIFBNJmhhc2hfdmFsdWU9a3NOZzhhTWlVL1BWSWhPSWhxUW9aUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-name="Rishtey Cineplex",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
