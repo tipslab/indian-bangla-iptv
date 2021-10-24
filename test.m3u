@@ -9,15 +9,29 @@ http://208.115.215.42:80/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="ZEE Anmol HD", ZEE Anmol HD
 http://208.115.215.42:80/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="ZEE Anmol Cinema HD", ZEE Anmol Cinema HD
+https://z5ams.akamaized.net/zanmolcnm/index.m3u8?hdnts=st=1635063410~exp=1635066410~acl=/*~hmac=a7f4e0b1adeaa42aa61873a51b583550479b4aa22dccc4895e94fe8f786a1aec
+
 #EXTINF:-1 tvg-logo="ZEE Action HD", ZEE Action HD
 http://208.115.215.42:80/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="ZEE Bollywood HD", ZEE Bollywood HD
+#EXTINF:-1 tvg-logo="ZEE BollyWood HD", ZEE BollyWood HD
 http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="ZEE Punjabi HD", ZEE Punjabi HD
 http://208.115.215.42:80/ZEE_Punjabi/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="Peace TV Bangla", Peace TV Bangla
+http://199.223.252.162:8032/bangla_adaptive/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="ZEE Salaam HD", ZEE Salaam HD
 https://z5ams.akamaized.net/zeesalaam/index.m3u8?hdnts=st=1635062554~exp=1635065554~acl=/*~hmac=1a5483f5d950aac3b8bc410edb228571e4d50da54b8367bbdd2b9707403601b4
 
+#EXTINF:-1 tvg-logo="ZEE Bangla HD", ZEE Bangla HD
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1635063127~exp=1635066127~acl=/*~hmac=7ec91f255ab54a66f9c9ab95915adcab89c3b53cd9fdaa9feb753f4a6a537069
+
+#EXTINF:-1 tvg-logo="ZEE Bangla Cinema HD", ZEE Bangla Cinema HD
+https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1635063410~exp=1635066410~acl=/*~hmac=a7f4e0b1adeaa42aa61873a51b583550479b4aa22dccc4895e94fe8f786a1aec
+
+#EXTINF:-1 tvg-logo="ZEE Cafe HD", ZEE Cafe HD
+https://z5ams.akamaized.net/zeecafehd/index.m3u8?hdnts=st=1635063683~exp=1635066683~acl=/*~hmac=f92b49af7fc5cc739ebb1ca5a4f8dbaccf1f4e5f70a9ecc0eb2e42f41acdd2e5
