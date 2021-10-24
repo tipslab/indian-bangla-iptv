@@ -1,13 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Discovery", Discovery
-https://list.iptvcat.com/my_list/s/5d7bddc37539b38cca94fa69a45ccd83.m3u8
+#EXTINF:-1 tvg-logo="ZEE TV HD", ZEE TV HD
+http://208.115.215.42:80/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="Discovery HD", Discovery HD
-https://list.iptvcat.com/my_list/s/2b77434c9a209577a0b84b0939b6f7c6.m3u8
+#EXTINF:-1 tvg-logo="ZEE Cinema HD", ZEE Cinema HD
+http://208.115.215.42:80/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="Zee TV", Zee TV
-https://list.iptvcat.com/my_list/s/399ff3f4be3dc2e5083b3fa64f22f880.m3u8
+#EXTINF:-1 tvg-logo="ZEE Anmol HD", ZEE Anmol HD
+http://208.115.215.42:80/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="Somoy tv", Somoy tv
-https://edge4.bioscopelive.com/hls/anonymous/zq3kIdUkrQzL8kEXVXnXOA/1635053454/shomoy_tv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="ZEE Action HD", ZEE Action HD
+http://208.115.215.42:80/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="ZEE Bollywood HD", ZEE Bollywood HD
+http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="ZEE Punjabi HD", ZEE Punjabi HD
+http://208.115.215.42:80/ZEE_Punjabi/tracks-v1a1/mono.m3u8
+
+http://199.223.252.162:8032/bangla_adaptive/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="ZEE Salaam HD", ZEE Salaam HD
+https://z5ams.akamaized.net/zeesalaam/index.m3u8?hdnts=st=1635062554~exp=1635065554~acl=/*~hmac=1a5483f5d950aac3b8bc410edb228571e4d50da54b8367bbdd2b9707403601b4
+
