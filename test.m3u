@@ -24,26 +24,14 @@ http://208.115.215.42:80/ZEE_Punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Peace TV Bangla", Peace TV Bangla
 http://199.223.252.162:8032/bangla_adaptive/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="ZEE Salaam HD", ZEE Salaam HD
-https://z5ams.akamaized.net/zeesalaam/index.m3u8?hdnts=st=1635062554~exp=1635065554~acl=/*~hmac=1a5483f5d950aac3b8bc410edb228571e4d50da54b8367bbdd2b9707403601b4
-
-#EXTINF:-1 tvg-logo="ZEE Bangla HD", ZEE Bangla HD
-https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1635063127~exp=1635066127~acl=/*~hmac=7ec91f255ab54a66f9c9ab95915adcab89c3b53cd9fdaa9feb753f4a6a537069
-
-#EXTINF:-1 tvg-logo="ZEE Bangla Cinema HD", ZEE Bangla Cinema HD
-https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1635063410~exp=1635066410~acl=/*~hmac=a7f4e0b1adeaa42aa61873a51b583550479b4aa22dccc4895e94fe8f786a1aec
-
-#EXTINF:-1 tvg-logo="ZEE Cafe HD", ZEE Cafe HD
-https://z5ams.akamaized.net/zeecafehd/index.m3u8?hdnts=st=1635063683~exp=1635066683~acl=/*~hmac=f92b49af7fc5cc739ebb1ca5a4f8dbaccf1f4e5f70a9ecc0eb2e42f41acdd2e5
-
 #EXTINF:-1 tvg-logo="Utsav Gold", Utsav Gold
-http://starlive.hjkm.info:11991/junosafe/stargolduk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjUzOjMyIEFNJmhhc2hfdmFsdWU9RCthWWEya3grT0pMY2xkMk5RQ3Q1QT09JnZhbGlkbWludXRlcz0y
+http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="Star Gold", Star Gold
-http://starlive.hjkm.info:11991/junosafe/stargold/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjU2OjMxIEFNJmhhc2hfdmFsdWU9SWQ0TUEyRkxLRVVPdktWb0tOWXFrQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="Star Parvah HD", Star Parvah HD
+http://208.115.215.42:80/Star_Parvah_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="Star Plus", Star Plus
-http://livezer0.hjkm.info:11991/juno/starplusme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA4OjU4OjQ3IEFNJmhhc2hfdmFsdWU9MDBWR3pWVXFLU0xSUGIvK05SOW1mZz09JnZhbGlkbWludXRlcz0y
+http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="Star Utsav Movies", Star Utsav Movies
 http://livezer0.hjkm.info:11991/juno/starutsavmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA5OjAxOjI1IEFNJmhhc2hfdmFsdWU9MGd5bjlQSXdhcFFBdmdzeUljbHlEUT09JnZhbGlkbWludXRlcz0y
@@ -51,23 +39,17 @@ http://livezer0.hjkm.info:11991/juno/starutsavmovies/playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1 tvg-logo="Discovery", Discovery (English)
 https://idvd.multitvsolution.com/idvo/discoveryeng.m3u8
 
-#EXTINF:-1 tvg-logo="Discovery", Discovery (Bangla)
-http://livezer0.hjkm.info:11991/vesta/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA5OjA0OjEyIEFNJmhhc2hfdmFsdWU9RlBlRUszKzllNlFnRURVZUxSQ3lqZz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png",Star Jalsha HD
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/News_time_bangla.png",News Time Bangla
-http://idvd.multitvsolution.com/idvo/newstimebangla_540p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg",Sangeet bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/ABP_Ananda_News_India.png",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/R-plus-gold.jpg",R Plus Gold
-http://idvd.multitvsolution.com/idvo/rplusgold_540p/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SONY TV HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png",SONY MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 tvg-name="Star Movies HD" ,Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 tvg-name="Colors HD",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
