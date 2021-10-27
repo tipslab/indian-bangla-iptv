@@ -9,6 +9,12 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f10
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e1
 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
+http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pal&=800&e=junk.m3u8
+
 #EXTINF:-1 tvg-name="Zee TV HD",Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e274
 
