@@ -1,46 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg",Colors Bangla HD
-http://alphabetagama.ddns.net/bangla2020/colorsbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA1OjA0OjI0IFBNJmhhc2hfdmFsdWU9ZVYvQmFTMnhaT2tsaml4cWw5bmFGQT09JnZhbGlkbWludXRlcz02ckFGeHpaZz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg",T Sports HD
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Zee Bangla HD",Zee Bangla HD
-https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1635006246~exp=1635009246~acl=/*~hmac=ad270ba91ea82480730bb76f9f15bbcef8c846bc1fca372805f2da6a33f5559a
-
-#EXTINF:-1 tvg-name="Zee Bangla Cinema", Zee Bangla Cinema
-https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1635006246~exp=1635009246~acl=/*~hmac=ad270ba91ea82480730bb76f9f15bbcef8c846bc1fca372805f2da6a33f5559a
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png",Star Jalsha HD
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png",Star Jalsha Movies HD
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218196
-
-#EXTINF:-1 tvg-name="Sony Aath",Sony Aath
-https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/cd9b17065db98d5def9e6f9a83385060/auto
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg",Sangeet bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SONY TV HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png",SONY PIX HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e1
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
-http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
-http://jo123.biz/jweb/m3u8.php?c=Sony_Pal&=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg",SONY SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
@@ -78,8 +45,11 @@ http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?token=test&t=4c78b6db0d2
 #EXTINF:-1 tvg-name="Colors HD",Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
-#EXTINF:-1 tvg-name="NICK",NICK
-https://live.bongobd.com/hls/vazRRvHpOtMGKoNlMByMPw/1635010991/nickelodeon.m3u8
+#EXTINF:-1 tvg-namr="Nick",Nick (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-namr="Pogo",Pogo (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPggdSKlxZEinL_IeTKisukS9ih01YOPZyw&usqp=CAU",Disney Channel (Hindi)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
@@ -90,23 +60,20 @@ http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCFIc9jis44cnJYRHx7hcqAlYkx8RoVXhsw&usqp=CAU", Disney XD (English)
 http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmsrVpxmCYQY_ShTUOsP7w9q9rbS5PyaOKQ&usqp=CAU", WoW Kids (Hindi)
-http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/300px-Hungama_TV.svg.png", Hungama (Hindi)
-http://103.153.39.34:8000/play/a04l/index.m3u8
-
 #EXTINF:-1 tvg-nane="NAT GEO WILD", NAT GEO WILD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png", Animal Planet (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
 
-#EXTINF:-1 tvg-name="Discovery",Discovery (Bangla)
-http://alphabetagama.ddns.net/bangla2020/discoverybangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA0OjM3OjUwIFBNJmhhc2hfdmFsdWU9ejZlWGVqK3hKWEx1bFdYRExtKzJxUT09JnZhbGlkbWludXRlcz02
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png", Animal Planet HD (English)
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_HD&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png", Discovery Channel (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png", Discovery HD (English)
+http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png", Discovery Turbo
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=800&e=junk.m3u8
@@ -114,38 +81,5 @@ http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png", Discovery Science
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Science&q=800&e=junk.m3u8
 
-#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png", Discovery HD (English)
-http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&q=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nickindia.com/wp-content/themes/nick/assets/images/hd-logo.png",Nick HD+
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7694.ts
-
-#EXTINF:-1 tvg-name="TEN 1 HD",TEN 1 HD
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218206
-
-#EXTINF:-1 tvg-name="TEN 3",TEN 2 HD
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218207
-
-#EXTINF:-1 tvg-name="TEN 3",TEN 3 HD
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218208
-
-#EXTINF:-1 tvg-name="TEN Sports",TEN Sports
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/307.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Star_Sports_1.jpg",STAR SPORTS 1
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218155
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg",STAR SPORTS 2
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218156
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg",STAR SPORTS SELECT 1
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218158
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg",STAR SPORTS SELECT 2
-http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218157
-
-#EXTINF:-1 tvg-name="HBO HD",HBO HD
-http://livezer0.hjkm.info:11991/ceres/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA0OjU1OjQyIFBNJmhhc2hfdmFsdWU9a3NOZzhhTWlVL1BWSWhPSWhxUW9aUT09JnZhbGlkbWludXRlcz0y
-
 #EXTINF:-1 tvg-name="TLC",TLC (Hindi)
-http://jo123.biz/jweb/m3u8.php?c=TLC_Hindi&=800&e=.m3u8
+http://jo123.biz/jweb/m3u8.php?c=TLC_Hindi&=800&e=junk.m3u8
