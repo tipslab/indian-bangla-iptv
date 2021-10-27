@@ -9,9 +9,6 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f10
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg",SONY SAB HD
-http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
 #EXTINF:-1 tvg-name="Zee TV HD",Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e274
 
@@ -24,7 +21,7 @@ http://208.115.215.42:80/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Zee Action", Zee Action
 http://208.115.215.42:80/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="Zee Bollywood", Zee Bollywood
+#EXTINF:-1 tvg-logo="Zee Classic", Zee Classic
 http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="Zee Punjabi", Zee Punjabi HD
@@ -48,6 +45,9 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010
 #EXTINF:-1 tvg-namr="Nick",Nick (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&=800&e=junk.m3u8
 
+#EXTINF:-1 tvg-namr="Cartoon Network", Cartoon Network (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
+
 #EXTINF:-1 tvg-namr="Pogo",Pogo (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&=800&e=junk.m3u8
 
@@ -60,7 +60,7 @@ http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCFIc9jis44cnJYRHx7hcqAlYkx8RoVXhsw&usqp=CAU", Disney XD (English)
 http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
 
-#EXTINF:-1 tvg-nane="NAT GEO WILD", NAT GEO WILD
+#EXTINF:-1 tvg-nane="NAT GEO WILD", NAT GEO WILD (English)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png", Animal Planet (Hindi)
