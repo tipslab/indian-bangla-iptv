@@ -93,6 +93,18 @@ http://jo123.biz/jweb/m3u8.php?c=Discovery_Science&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-name="TLC",TLC (Hindi)
 http://jo123.biz/jweb/m3u8.php?c=TLC_Hindi&=800&e=junk.m3u8
 
+#EXTINF:-1 tvg-name="Bflix Movies", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF:-1 tvg-name="Desi Channel", Desi Channel
+http://live.agmediachandigarh.com:80/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Music Top", Music Top
+http://live-edge01.telecentro.net.ar:80/live/msctphd-720/chunklist_w1210381560.m3u8
+
+#EXTINF:-1 tvg-name="9XM", 9XM
+http://d2q8p4pe5spbak.cloudfront.net:80/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA",BTV WORLD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
