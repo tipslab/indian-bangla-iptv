@@ -1,52 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg",Sangeet bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SONY TV HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e1
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
-http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
-http://jo123.biz/jweb/m3u8.php?c=Sony_Pal&=800&e=junk.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1 tvg-name="Zee TV HD",Zee TV HD
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e274
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1  tvg-name="Zee Cinema HD",Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e274
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1 tvg-logo="Zee Anmol", Zee Anmol
-http://208.115.215.42:80/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+http://208.115.215.42:80/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1 tvg-logo="Zee Action", Zee Action
-http://208.115.215.42:80/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+http://208.115.215.42:80/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8?t=tipslab
 
-#EXTINF:-1 tvg-logo="Zee Classic", Zee Classic
-http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Zee Bollywood", Zee Bollywood
+http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8?t=tipslab
 
-#EXTINF:-1 tvg-logo="Zee Punjabi", Zee Punjabi HD
-http://208.115.215.42:80/ZEE_Punjabi/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Star Movies HD",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
-#EXTINF:-1 tvg-name="Star World HD",Star World HD
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 tvg-logo="Zee Punjabi", Zee Punjabi
+http://208.115.215.42:80/ZEE_Punjabi/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1 tvg-name="Star Plus HD",Star Plus HD
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427nZhbGlkbWludXRlcz0y8375d62cc2cf608f962f9a1125
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1 tvg-name="Star Gold",Star Gold
-http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?token=test&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?t=tipslab
+
+#EXTINF:-1 tvg-name="Star Movies HD",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+
+#EXTINF:-1 tvg-name="Star World HD",Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1 tvg-name="Colors HD",Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
 #EXTINF:-1 tvg-namr="Nick",Nick (Bangla)
 http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&=800&e=junk.m3u8
@@ -104,6 +95,9 @@ http://live-edge01.telecentro.net.ar:80/live/msctphd-720/chunklist_w1210381560.m
 
 #EXTINF:-1 tvg-name="9XM", 9XM
 http://d2q8p4pe5spbak.cloudfront.net:80/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg",Sangeet bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA",BTV WORLD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -174,5 +168,3 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1,Gaan Bangla HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 
-#EXTINF:-1,Lotus Macau
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
