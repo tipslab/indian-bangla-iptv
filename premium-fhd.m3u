@@ -9,6 +9,9 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 #EXTINF:-1 tvg-name="Zee TV HD",Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
+#EXTINF:-1  tvg-name="Zee Cinema",Zee Cinema HD
+http://208.115.215.42:80/ZEE_CInema_HD/tracks-v1a1/mono.m3u8?t=tipslab
+
 #EXTINF:-1  tvg-name="Zee Cinema HD",Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
@@ -36,8 +39,29 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 #EXTINF:-1 tvg-name="Star World HD",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 
+#EXTINF:-1 tvg-logo="Star Psrvah", Star Parvah HD
+http://208.115.215.42:80/Star_Parvah_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Colors HD",Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+
+#EXTINF:-1 tvg-logo="Colors Cineplex", Colors Cineplex HD
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+
+#EXTINF:-1 tvg-logo="UTV Movies", UTV Movies
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+
+#EXTINF:-1 tvg-logo="Utsav Gold", Utsav Gold HD
+http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="Utsav Plus", Utsav Plus (UK)
+http://208.115.215.42:80/Utsav_Plus_UK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TLC",TLC (Hindi)
+http://jo123.biz/jweb/m3u8.php?c=TLC_Hindi&=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-name="Bflix Movies", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 #EXTINF:-1 tvg-namr="Nick",Nick (Bangla)
 http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&=800&e=junk.m3u8
@@ -80,12 +104,6 @@ http://jo123.biz/jweb/m3u8.php?c=Discovery_Turbo&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png", Discovery Science
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Science&q=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-name="TLC",TLC (Hindi)
-http://jo123.biz/jweb/m3u8.php?c=TLC_Hindi&=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-name="Bflix Movies", Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 #EXTINF:-1 tvg-name="Desi Channel", Desi Channel
 http://live.agmediachandigarh.com:80/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/chunks.m3u8
