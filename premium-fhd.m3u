@@ -63,6 +63,12 @@ http://jo123.biz/jweb/m3u8.php?c=TLC_Hindi&=800&e=junk.m3u8
 #EXTINF:-1 tvg-name="Bflix Movies", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", HUM TV
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Cinema TV
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+
 #EXTINF:-1 tvg-namr="Nick",Nick (Bangla)
 http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&=800&e=junk.m3u8
 
